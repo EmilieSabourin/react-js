@@ -1,0 +1,29 @@
+.card-content p {
+    font-family: cursive;
+    font-weight: italic;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    position: relative;
+    padding-left: 10px;
+}
+
+.card-content p1 {
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    position: relative;
+    padding-left: 10px;
+}
+
+.card-content em {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: left;
+    display: block;
+    color: #777;
+}
+
+
+

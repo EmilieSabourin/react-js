@@ -3,10 +3,11 @@ import * as request from 'request-promise'
 
 /* FREE JSON API EXAMPLE */
 /* https://www.apixu.com/api-explorer.aspx */
+const URL = 'https://tranquil-savannah-17310.herokuapp.com/'
 
 export const ENDPOINTS = {
 
-    WEATHER_API_URL: 'http://api.apixu.com/v1/current.json'
+    PET_URL: URL + 'http://api.petfinder.com/pet.find',
 
 }
 
